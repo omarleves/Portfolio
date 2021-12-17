@@ -8,7 +8,6 @@ Global
     box-sizing: border-box;
     text-decoration: none;
     outline: none;border: none;
-    text-transform: capitalize;
     transition: all .1s linear;
     scroll-behavior: smooth;
 }
